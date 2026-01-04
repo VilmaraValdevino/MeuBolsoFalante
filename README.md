@@ -1,26 +1,37 @@
 # 💸 App de Finanças Pessoais da Vilmara com Vibe Coding
-Criação de soluções com IA de forma criativa, guiando ferramentas como o Copilot e o Lovable com uma comunicação simples e natural. O foco é desenvolver o conceito de um App de Organização de Finanças Pessoais, mas, acima de tudo, aprender o jeito Vibe de programar com IA.
 
-## ✨ O que é Vibe Coding
-Vibe Coding é uma forma leve e criativa de desenvolver com IA, baseada em conversas naturais e bem estruturadas. Você não precisa escrever código linha por linha. Em vez disso, aprende a guiar a IA descrevendo suas ideias de forma clara, com intenção e contexto. Em outras palavras:
+# 🌐 **1. Visão Geral** 
+O **Meu Bolso Falante** é um conceito de aplicativo financeiro baseado em **conversas naturais**, desenvolvido com a metodologia **Vibe Coding**, utilizando IA para transformar ideias claras em protótipos funcionais e acessíveis. 
 
-Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
+--- 
 
-## 🎯 Desafio
-Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso.
+# 🎯 **2. O Desafio** 
+## ❗ Problema A maioria das pessoas abandona o controle financeiro por causa de: 
+- Interfaces complexas
+- Entrada manual excessiva
+- Falta de acessibilidade
+- Pouca personalização 
 
-Precisamos de uma solução que permita controlar as finanças por meio de uma conversa simples, com agentes de IA capazes de criar planos de economia personalizados e automatizados. Irei utilizar as ideias de Vibe Coding e MVP (Produto Mínimo Viável) para desenvolver o conceito de um aplicativo que resolva o problema citado.
+## 🎯 Objetivo Criar um app que permita controlar finanças **via conversa**, com: 
+- Registro automático
+- Metas simples
+- Resumos claros
+- Recomendações personalizadas 
 
+--- 
 
+# 🔧 **3. Metodologia: Vibe Coding** 
+## 💬 Como funciona 
+- Conversas naturais
+- Clareza de intenção
+- Estruturação simples
+- IA como parceira criativa
 
-> Não será preciso construir o código! O foco está em usar a IA como parceira criativa, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
+**Você descreve a vibe. A IA constrói o caminho.** 
 
+--- 
 
-## 🪄 Etapas do Desafio
-### 1. Saber o que Pedir é a Chave! Otimize seus Prompts!
-Antes de pedir para a IA "criar um app", é importante definir com clareza o que você quer construir e por quê. Para isso, você vai criar um PRD (Product Requirements Document) simplificado, uma especificação que serve como briefing para a IA entender sua ideia.
-
-Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. 
+# 📄 **4. PRD**
 
 ### Abaixo segue o modelo usado para desenvolver **meu bolso falante**:
 
@@ -132,9 +143,8 @@ A IA deverá criar um aplicativo com:
 - Comportamento de um “Agente Financeiro” empático e orientador.
 ```
 
-## Resultado final no Lovable: 
-
-https://meu-bolso-falante.lovable.app 
+# 📱 **5. Resultado no Lovable** 
+🔗 **Acesse:** https://meu-bolso-falante.lovable.app 
 
 
 
@@ -148,62 +158,28 @@ https://meu-bolso-falante.lovable.app
 
 
 
-# 💬 Resumo / Descrição do aplicativo Meu Bolso Falante
+--- 
 
-**Meu Bolso Falante** é um aplicativo de organização financeira pessoal baseado em conversas em linguagem natural. Ele transforma o controle de gastos em uma experiência simples, acessível e empática, ideal para quem quer cuidar das finanças sem complicação.
+# 💬 **6. Resumo do Aplicativo** 
+O **Meu Bolso Falante** transforma o controle financeiro em uma experiência: 
+- Conversacional
+- Acessível
+- Automatizada
+- Empática
 
----
-
-## 🌟 Visão Geral
-
-- Registro de despesas via chat, com linguagem cotidiana.
-- Classificação automática por categoria, valor e data.
-- Resumo mensal visual e explicativo.
-- Interface inclusiva e acessível para todos os públicos.
+Ideal para quem quer organizar a vida financeira sem complicação. 
 
 ---
 
-## 🧠 Problema Resolvido
+# 📝 **7. Reflexões**
 
-Muitas pessoas abandonam o controle financeiro por causa de:
-- Interfaces complexas e técnicas.
-- Excesso de entrada manual.
-- Falta de acessibilidade.
-- Pouca personalização e orientação.
-
-**Meu Bolso Falante** resolve isso com uma abordagem conversacional, empática e automatizada.
-
----
-
-## 🎯 Público-Alvo
-
-- Iniciantes em finanças pessoais.
-- Pessoas com qualquer nível de escolaridade.
-- Usuários com limitações físicas, sensoriais ou cognitivas.
-- Quem prefere interações simples via chat.
-
----
-
-
-## 🖌️ Design e Acessibilidade
-
-- Interface limpa e intuitiva.
-- Linguagem simples e educativa.
-- Compatível com leitores de tela.
-- Alto contraste e tipografia legível.
-- Navegação sem gestos complexos.
-
----
-
-## Reflexão 
-
-### O que funcionou bem?
+## ✔️ O que funcionou bem?
 O refinamento do PRD no Copilot ajudou muito, pois os créditos do Lovable acabaram em poucas interações. 
 
-### O que não funcionou como esperado? 
+## ❌ O que não funcionou como esperado? 
 Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding. 
 
-### O que aprendeu sobre conversar com IAs? 
+## 💡 O que aprendeu sobre conversar com IAs? 
 Aprendi que é bem parecido como conversar com uma pessoa, quanto mais detalhes e clareza você fornece, melhor será a interação.
 
 
